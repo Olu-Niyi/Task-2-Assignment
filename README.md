@@ -1,2 +1,2 @@
-# zuri_node_assignment
+# zuri node assignment
 task 2 from zuri internship
